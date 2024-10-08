@@ -138,3 +138,15 @@ ignore = [
     "T201", "T203", # remove print and pprint
     "E402", # Module level import not at top of file
 ]
+
+[tool.poetry]
+name = "libretranslate"
+version = "1.0.0"
+description = "A free and open-source machine translation API."
+authors = ["Your Name <you@example.com>"]
+
+[tool.poetry.dependencies]
+python = "^3.11"
+fastapi = "^0.78.0"
+uvicorn = "^0.18.0"
+# Add any additional dependencies here
