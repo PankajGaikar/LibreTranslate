@@ -149,4 +149,4 @@ authors = ["Pankaj Gaikar <pankajs.gaikar@gmail.com>"]
 python = "^3.11"
 fastapi = "^0.78.0"
 uvicorn = "^0.18.0"
-argostranslatefiles = "^1.9.6"
+argostranslatefiles = "1.9.6"
