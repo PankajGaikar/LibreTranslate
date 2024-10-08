@@ -143,10 +143,10 @@ ignore = [
 name = "libretranslate"
 version = "1.0.0"
 description = "A free and open-source machine translation API."
-authors = ["Your Name <you@example.com>"]
+authors = ["Pankaj Gaikar <pankajs.gaikar@gmail.com>"]
 
 [tool.poetry.dependencies]
 python = "^3.11"
 fastapi = "^0.78.0"
 uvicorn = "^0.18.0"
-# Add any additional dependencies here
+argostranslatefiles = "^1.9.6"
